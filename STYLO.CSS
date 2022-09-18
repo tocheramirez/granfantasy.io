@@ -1,0 +1,117 @@
+*{
+    
+    font-family: sans-serif;
+    
+}
+div nav{
+    text-decoration: none;
+}
+
+header{
+    text-align: center;
+    font-size: 50px;
+}
+header nav{
+    text-decoration: none;
+    
+}
+
+ main{
+    background: transparent;
+    
+ }
+main h1 h2{
+    text-align: center;
+    background: transparent;
+   
+}
+.encuentranos{
+    width: 100%;
+    height: 100%;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+ }
+.ubicacion{
+    width: 100%;
+    height: 100%;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+.entrada h1 {
+    font-size: 50px;
+    width: 100%;
+    height: 100%;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+.entrada h2 {
+    font-size: 30px;
+    width: 100%;
+    height: 100%;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+nav .inicio{
+    font-size: 60px;
+    
+}
+nav{
+    font-size: 30px;
+}
+body {
+    background: rgb(2,0,36);
+    background: linear-gradient(90deg, rgb(166, 219, 7) 0%, rgb(25, 25, 192) 35%, rgb(255, 0, 0) 100%);
+}
+footer .whats{
+    font-size: 30px;
+    width: 100%;
+    height: 100%;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+footer .whats2{
+    font-size: 30px;
+    width: 100%;
+    height: 100%;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+footer{
+    font-size: 30px;
+    width: 100%;
+    height: 100%;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    
+}
+.whats{
+    padding: 3px 3px;
+    font-size: 24px;
+    font-weight: 20px;
+    background: transparent;
+    border: 2px solid white;
+    border-radius: 30px;
+    text-transform: uppercase;
+    color: white;
+    text-decoration: none;
+ }
+ .whats2{
+    padding: 3px 3px;
+    font-size: 24px;
+    font-weight: 20px;
+    background: transparent;
+    border: 2px solid white;
+    border-radius: 30px;
+    text-transform: uppercase;
+    color: white;
+    text-decoration: none;
+ }
+
